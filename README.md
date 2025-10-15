@@ -33,7 +33,7 @@ Berikut adalah *notebook* utama yang berisi langkah-langkah dalam proyek ini:
 1. [Exploratory Data Analysis (EDA)](Data%20Preparation/EDA.ipynb)
 2. [Text Preprocessing](Data%20Preparation/text_preprocessing.ipynb)
 3. [Model Training & Evaluation](Models)
-4. [Reports PPT]
+4. [Reports PPT](https://github.com/benebimo/BeneBimo/blob/main/PPT%20NLP%20C_Analisis%20Sentimen%20Proyek%201.pdf)
 
 ---
 
