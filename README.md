@@ -3,7 +3,7 @@ Project ini bertujuan untuk menganalisis sentimen publik terhadap isu sosial pol
 
 ---
 
-## **Tahapan**
+# **Tahapan**
 - Text Preprocessing  
 - Text Vectorization (TF-IDF dan Word2Vec)  
 - Modelling (Logistic Regression, Random Forest, RNN/LSTM)
