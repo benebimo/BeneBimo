@@ -1,6 +1,5 @@
 # Project Overview
-Proyek ini merupakan salah satu penerapan Natural Language Processing (NLP) untuk menganalisis sentimen publik terhadap isu sosial politik di Indonesia, berdasarkan data tweet/opini yang diambil dari Twitter.
-Tujuan project ini adalah pengembangan model klasifikasi sentimen berbasis machine learning untuk mengkategorikan opini pengguna menjadi positif, negatif, atau netral.  
+Project ini bertujuan untuk menganalisis sentimen publik terhadap isu sosial politik di Indonesia berdasarkan data tweet/opini yang diambil dari Twitter dengan menggunakan metode Natural Language Processing (NLP). Tujuan utama (main goal) dari project ini adalah pengembangan model klasifikasi sentimen berbasis machine learning untuk mengkategorikan opini pengguna menjadi positif, negatif, atau netral.  
 
 ---
 
